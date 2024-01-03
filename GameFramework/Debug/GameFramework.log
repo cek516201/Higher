@@ -1,0 +1,111 @@
+﻿  Background.cpp
+  Bullet.cpp
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Game.h(56,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  (소스 파일 'Bullet.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Bullet.cpp(11,75): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Bullet.cpp(11,63): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Bullet.cpp(30,18): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Bullet.cpp(32,17): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Bullet.cpp(36,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Bullet.cpp(38,22): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Bullet.cpp(40,21): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Bullet.cpp(53,135): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Bullet.cpp(53,92): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Camera.cpp
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Game.h(56,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  (소스 파일 'Camera.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Camera.cpp(12,47): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CollisionManager.cpp
+  Goal.cpp
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Goal.cpp(11,137): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Goal.cpp(11,101): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Goal.cpp(11,68): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Goal.cpp(11,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Goal.cpp(10,153): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Goal.cpp(10,131): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Goal.cpp(10,102): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Goal.cpp(10,80): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  UIClearTime.cpp
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Game.h(56,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  (소스 파일 'UIClearTime.cpp'을(를) 컴파일하는 중)
+  
+  Game.cpp
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Game.h(56,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  (소스 파일 'Game.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Game.cpp(140,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Game.cpp(147,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Game.cpp(152,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Game.cpp(164,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Game.cpp(171,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Game.cpp(188,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Game.cpp(195,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Game.cpp(200,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  InputHandler.cpp
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Game.h(56,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  (소스 파일 'InputHandler.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\InputHandler.cpp(75,37): warning C4244: '인수': 'Sint32'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\InputHandler.cpp(76,37): warning C4244: '인수': 'Sint32'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Game.h(56,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\main.cpp(27,32): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Game.h(56,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  (소스 파일 'Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Player.cpp(54,38): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Player.cpp(99,43): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Player.cpp(109,123): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Player.cpp(109,77): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Player.cpp(121,25): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Player.cpp(130,20): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Player.cpp(132,19): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Player.cpp(138,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Player.cpp(140,24): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Player.cpp(142,23): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Player.cpp(152,43): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Player.cpp(153,44): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Player.cpp(162,33): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Player.cpp(163,44): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Player.cpp(175,33): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Player.cpp(182,44): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Player.cpp(204,154): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Player.cpp(210,160): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Player.cpp(212,63): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Player.cpp(219,214): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Player.cpp(219,168): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Player.cpp(219,94): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Player.cpp(219,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SDLGameObject.cpp
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Game.h(56,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  (소스 파일 'SDLGameObject.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\SDLGameObject.cpp(6,122): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\SDLGameObject.cpp(6,106): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TextureManager.cpp
+  UI.cpp
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Game.h(56,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  (소스 파일 'UI.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\UI.cpp(5,101): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\UI.cpp(5,84): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  UIManager.cpp
+  Vector2D.cpp
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Vector2D.cpp(16,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Wall.cpp
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Wall.cpp(9,137): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Wall.cpp(9,101): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Wall.cpp(9,68): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Wall.cpp(9,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Wall.cpp(8,150): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Wall.cpp(8,129): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Wall.cpp(8,101): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Wall.cpp(8,80): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\UIManager.cpp(17): warning C4715: 'UIManager::init': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  GameFramework.vcxproj -> C:\Users\YuByeongHan\Desktop\Visual Studio 2019 Projects\gf-20171205\GameFramework\Debug\GameFramework.exe
